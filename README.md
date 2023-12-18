@@ -1,4 +1,4 @@
-# Sentiment Analysis Project Report
+# Sentiment Analysis Project
 
 ## By: Anas Zaheer Suayeb Ahmed and Haitham Raziq
 
