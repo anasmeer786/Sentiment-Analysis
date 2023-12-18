@@ -1,6 +1,6 @@
 # Sentiment Analysis Project Report
 
-## By: Anas Zaheer
+## By: Anas Zaheer Suayeb Ahmed and Haitham Raziq
 
 ## Introduction
 
